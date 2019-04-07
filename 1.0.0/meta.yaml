@@ -1,0 +1,11 @@
+id: vsc-material-theme
+version: 2.8.1
+type: VS Code extension
+name: Material Theme
+title: Material Theme Plugin
+description: VS Code extension wrapped in a Che Plug-in
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+url: https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Equinusocio/vsextensions/vsc-material-theme/2.8.1/vspackage
+publisher: Mattia Astorino
+category: Other
+firstPublicationDate: "2017-02-06"
