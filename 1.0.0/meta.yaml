@@ -5,7 +5,7 @@ name: Theia theme plugin
 title: Theia theme plugin
 description: Theia plugin that changes the theme
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
-url: https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Equinusocio/vsextensions/vsc-material-theme/2.8.1/vspackage
+url: https://github.com/levjason/theia-theme-plugin/blob/master/theia_theme_plugin.theia?raw=true
 publisher: Jason
 category: Other
 firstPublicationDate: "2019-04-08"
